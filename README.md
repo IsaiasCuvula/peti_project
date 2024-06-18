@@ -10,10 +10,6 @@ This is a personal portfolio website showcasing my projects and providing inform
 - [Contact](#contact)
 - [License](#license)
 
-## Demo
-
-You can view a live demo of the portfolio [here](https://your-portfolio-demo-link.com).
-
 ## Features
 
 - Responsive design
