@@ -51,15 +51,11 @@ To customize the portfolio, you can modify the HTML and CSS files:
 - `index.html`: Update the content of the sections.
 - `style.css`: Change the styles to match your preferences.
 
-## Contact
-
-If you have any questions or feedback, please feel free to reach out to me at [s23651272@onlineedu.tu-varna.bg](mailto:s23651272@onlineedu.tu-varna.bg).
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <p align="left">
-  <img alt="Project" src="https://github.com/IsaiasCuvula/peti_project/assets/68303716/4c1d7156-9d4a-4137-bb3d-2aafcbfa42db" />
+  <img alt="Project" src="https://github.com/IsaiasCuvula/peti_project/assets/68303716/fc7fa904-76e9-4310-9441-319986866aeb" />
 </p>
