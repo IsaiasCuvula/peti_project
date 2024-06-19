@@ -8,40 +8,40 @@ body {
 }
 
 nav {
-    overflow: hidden;
+  overflow: hidden;
 }
 nav a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-    text-decoration: none;
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  text-decoration: none;
 }
 nav a:hover {
-    background-color: #ddd;
-    color: white;
+  background-color: #ddd;
+  color: white;
 }
 
- #intro {
-    padding: 20px; 
-    text-align: center;
-    color: white;
+#intro {
+  padding: 20px; 
+  text-align: center;
+  color: white;
 }
     
 .intro-text h2 {
-    font-size: 2.5em;
-    margin-bottom: 15px;
-    background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
+  font-size: 2.5em;
+  margin-bottom: 15px;
+  background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
 }
 
 .intro-text p {
-    font-size: 1.2em;
-    line-height: 1.5;
-    margin-top: 0;
+   font-size: 1.2em;
+   line-height: 1.5;
+   margin-top: 0;
 }
 @media (max-width: 600px) {
     .intro-text h2 {
